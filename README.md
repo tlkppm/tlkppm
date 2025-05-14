@@ -160,8 +160,8 @@ _北京大学 | Peking University_ _(2011 - 2015)_
 
 ## 📊 GitHub Stats | GitHub 统计
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tlkppm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlkppm&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tlkppm&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlkppm&theme=radical&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 ## 🔭 Current Focus | 当前重点关注
