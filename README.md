@@ -97,25 +97,17 @@ I am a passionate full stack developer with extensive experience in building rob
 开发用于移动和Web应用程序的RESTful API和GraphQL端点；优化数据库查询，性能提升60%；集成支付系统和第三方服务；实施安全最佳实践和漏洞评估。
 
 ## 🎓 Education | 教育背景
-**Master of Computer Science | 计算机科学硕士**  
-_Stanford University | 斯坦福大学_ _(2015 - 2017)_
+**计算机科学与技术硕士 | Master of Computer Science**  
+_清华大学 | Tsinghua University_ _(2015 - 2018)_
 
-**Bachelor of Software Engineering | 软件工程学士**  
-_MIT | 麻省理工学院_ _(2011 - 2015)_
+**软件工程学士 | Bachelor of Software Engineering**  
+_北京大学 | Peking University_ _(2011 - 2015)_
 
 ## 📊 GitHub Stats | GitHub 统计
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fullstack-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fullstack-dev&theme=radical" alt="GitHub Streak" />
 </p>
-
-## 🌟 Featured Projects | 精选项目
-- **Enterprise Microservices Platform | 企业微服务平台**  
-  Scalable, cloud-native architecture with service mesh, event-driven communication, and comprehensive monitoring
-- **AI-Powered Analytics Dashboard | AI驱动的分析仪表板**  
-  Real-time business intelligence platform with predictive analytics and natural language processing
-- **Blockchain Supply Chain Solution | 区块链供应链解决方案**  
-  Transparent, immutable supply chain tracking system with smart contracts and IoT integration
 
 ## 📫 Contact | 联系方式
 <p align="center">
