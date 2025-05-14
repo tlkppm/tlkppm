@@ -160,8 +160,8 @@ _北京大学 | Peking University_ _(2011 - 2015)_
 
 ## 📊 GitHub Stats | GitHub 统计
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LFUY&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LFUY&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tlkppm&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlkppm&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🔭 Current Focus | 当前重点关注
@@ -177,7 +177,7 @@ I'm currently exploring the integration of large language models (LLMs) with 3D 
   <a href="https://linkedin.com/in/lidev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/LFUY">
+  <a href="https://bgithub.xyz/LFUY">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://lfuy.dev">
