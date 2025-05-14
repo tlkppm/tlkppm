@@ -153,12 +153,6 @@ _北京大学 | Peking University_ _(2011 - 2015)_
 - **Cross-platform Development** | **跨平台开发**
 - **WebGL & GPU Programming** | **WebGL与GPU编程**
 
-## 🏅 Certifications & Patents | 认证与专利
-- **AWS Certified Solutions Architect – Professional**
-- **Microsoft Certified: Azure Solutions Architect Expert**
-- **Google Cloud Certified – Professional Cloud Architect**
-- **Patents | 专利**: 3项计算机图形学与可视化相关专利 | 3 patents in computer graphics and visualization
-
 ## 🌍 Languages | 语言能力
 - **中文 | Chinese**: 母语 (Native)
 - **English | 英语**: 流利 (Fluent)
