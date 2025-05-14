@@ -1,4 +1,4 @@
-# 👨‍💻 Leon Fuller | 全栈开发工程师
+# 👨‍💻 李方宇 | Li Fangyu | 全栈开发工程师
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -78,7 +78,7 @@ I am a passionate full stack developer creating innovative solutions at the inte
 ## 🏆 Professional Experience | 专业经验
 
 ### Lead Full Stack Engineer | 首席全栈工程师
-**L-Fusion Technologies | L形融合科技** _(2020 - Present | 至今)_
+**蓝方科技有限公司 | Blue Square Technologies Co., Ltd.** _(2020 - Present | 至今)_
 - Architect and develop innovative 3D web applications and interactive digital experiences
 - Lead a team of 15 developers across frontend, backend, and 3D visualization domains
 - Implement cutting-edge WebGL and Three.js solutions for virtual product showcases
@@ -88,7 +88,7 @@ I am a passionate full stack developer creating innovative solutions at the inte
 设计和开发创新的3D网络应用程序和交互式数字体验；领导一个包含15名开发人员的团队，覆盖前端、后端和3D可视化领域；实施前沿的WebGL和Three.js解决方案，用于虚拟产品展示；设计和优化支持数百万并发用户的微服务架构；带头将AR/VR技术整合到企业解决方案中。
 
 ### Senior Full Stack Developer | 高级全栈开发工程师
-**Dimensional Systems Ltd. | 维度系统有限公司** _(2017 - 2020)_
+**维度数字科技（北京）有限公司 | Dimension Digital Technology (Beijing) Co., Ltd.** _(2017 - 2020)_
 - Developed full-stack applications combining 3D visualization with data-intensive backends
 - Created responsive, accessible UIs for complex data visualization applications
 - Optimized rendering performance for browser-based 3D applications
@@ -117,26 +117,26 @@ _北京大学 | Peking University_ _(2011 - 2015)_
 
 ## 📊 GitHub Stats | GitHub 统计
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LFUYdev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LFUYdev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lifangyu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lifangyu&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 📫 Contact | 联系方式
 <p align="center">
-  <a href="mailto:leon@lfuy.dev">
+  <a href="mailto:contact@lifangyu.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/leonfuller">
+  <a href="https://linkedin.com/in/lifangyu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/LFUYdev">
+  <a href="https://github.com/lifangyu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/lfuy_dev">
+  <a href="https://twitter.com/lifangyu_dev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
-> "The intersection of technology and art is where the most interesting innovations happen." | "技术与艺术的交叉点是最有趣的创新发生之处。"
+> "技术与艺术的完美结合是创新的源泉。" | "The perfect combination of technology and art is the source of innovation."
