@@ -1,4 +1,4 @@
-# 👨‍💻 李方* | Li Fang* | 全栈开发工程师 
+# 👨‍💻 李** | Li** | 全栈开发工程师 
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -119,7 +119,7 @@ I am a passionate full stack developer with over 8 years of experience, speciali
 主导下一代数字产品和服务的技术愿景和战略；领导创新3D可视化平台的设计和实施，将企业客户决策时间减少40%；设计云原生微服务生态系统，日处理50TB+数据，保持99.99%的运行时间；建立安全开发的最佳实践，实施以来零安全漏洞；指导5个部门的技术团队，培养创新和持续学习的文化；为财富500强客户成功交付关键任务项目，按时按预算完成。
 
 ### Technical Director | 技术总监
-**维度数字科技（深圳）有限公司 | Dimension Digital Technology (Shenzhen) Co., Ltd.** _(2017 - 2020)_
+**广州创新科技有限公司 | Guangzhou Innovation Technology Co., Ltd.** _(2017 - 2020)_
 - Directed the development of cross-platform AR/VR applications for high-profile international clients
 - Designed and implemented an award-winning real-time 3D product visualization system
 - Pioneered integration of AI-powered analytics with WebGL data visualization
@@ -166,8 +166,8 @@ _北京大学 | Peking University_ _(2011 - 2015)_
 
 ## 📊 GitHub Stats | GitHub 统计
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifangyu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lifangyu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LFUY&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LFUY&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🔭 Current Focus | 当前重点关注
@@ -177,16 +177,16 @@ I'm currently exploring the integration of large language models (LLMs) with 3D 
 
 ## 📫 Contact | 联系方式
 <p align="center">
-  <a href="mailto:lifang@gztech.info">
+  <a href="mailto:li@gztech.info">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/lifangyu">
+  <a href="https://linkedin.com/in/lidev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/lifangyu">
+  <a href="https://github.com/LFUY">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://lifangyu.dev">
+  <a href="https://lfuy.dev">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
 </p>
