@@ -1,13 +1,13 @@
-# 👨‍💻 Full Stack Developer | 全栈开发工程师
+# 👨‍💻 Leon Fuller | 全栈开发工程师
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
 ## 🚀 About Me | 关于我
-I am a passionate full stack developer with extensive experience in building robust, scalable applications across the entire technology stack. With a strong foundation in both frontend and backend technologies, I specialize in creating seamless user experiences while ensuring optimal performance and security.
+I am a passionate full stack developer creating innovative solutions at the intersection of design and technology. With a keen eye for both aesthetics and functionality, I build applications that are not only robust and scalable but also visually appealing and intuitive. My expertise spans the entire development spectrum from pixel-perfect frontends to high-performance backend systems.
 
-作为一名充满热情的全栈开发工程师，我在构建健壮、可扩展的应用程序方面拥有丰富经验。凭借扎实的前端和后端技术基础，我专注于创造无缝的用户体验，同时确保最佳性能和安全性。
+作为一名充满热情的全栈开发工程师，我致力于在设计与技术的交叉点创造创新解决方案。凭借对美学和功能性的敏锐洞察力，我构建的应用程序不仅健壮可扩展，而且视觉吸引力强且直观易用。我的专业知识涵盖了从像素级完美前端到高性能后端系统的整个开发领域。
 
 ## 🛠️ Technical Skills | 技术栈
 
@@ -32,7 +32,7 @@ I am a passionate full stack developer with extensive experience in building rob
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
 </p>
 
 ### Backend | 后端
@@ -43,7 +43,7 @@ I am a passionate full stack developer with extensive experience in building rob
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
 ### Database | 数据库
@@ -63,68 +63,80 @@ I am a passionate full stack developer with extensive experience in building rob
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
 </p>
 
-### AI/ML | 人工智能/机器学习
+### Design & 3D | 设计与3D
 <p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Adobe_Creative_Suite-DA1F26?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe CS" />
 </p>
 
 ## 🏆 Professional Experience | 专业经验
 
-### Senior Full Stack Engineer | 高级全栈工程师
-**Enterprise Solutions Inc. | 企业解决方案公司** _(2020 - Present | 至今)_
-- Led development of scalable microservices architecture serving 1M+ daily users
-- Implemented CI/CD pipelines reducing deployment time by 75%
-- Architect of real-time data processing system handling 10TB+ daily
-- Mentored junior developers and conducted technical interviews
+### Lead Full Stack Engineer | 首席全栈工程师
+**L-Fusion Technologies | L形融合科技** _(2020 - Present | 至今)_
+- Architect and develop innovative 3D web applications and interactive digital experiences
+- Lead a team of 15 developers across frontend, backend, and 3D visualization domains
+- Implement cutting-edge WebGL and Three.js solutions for virtual product showcases
+- Design and optimize microservices architecture supporting millions of concurrent users
+- Spearhead the integration of AR/VR technologies into enterprise solutions
 
-领导开发可扩展的微服务架构，日服务用户超过100万；实施CI/CD流水线，将部署时间减少75%；设计实时数据处理系统，日处理数据量超过10TB；指导初级开发人员并进行技术面试。
+设计和开发创新的3D网络应用程序和交互式数字体验；领导一个包含15名开发人员的团队，覆盖前端、后端和3D可视化领域；实施前沿的WebGL和Three.js解决方案，用于虚拟产品展示；设计和优化支持数百万并发用户的微服务架构；带头将AR/VR技术整合到企业解决方案中。
 
-### Full Stack Developer | 全栈开发工程师
-**Tech Innovations Ltd. | 科技创新有限公司** _(2017 - 2020)_
-- Developed RESTful APIs and GraphQL endpoints for mobile and web applications
-- Optimized database queries resulting in 60% performance improvement
-- Integrated payment systems and third-party services
-- Implemented security best practices and vulnerability assessments
+### Senior Full Stack Developer | 高级全栈开发工程师
+**Dimensional Systems Ltd. | 维度系统有限公司** _(2017 - 2020)_
+- Developed full-stack applications combining 3D visualization with data-intensive backends
+- Created responsive, accessible UIs for complex data visualization applications
+- Optimized rendering performance for browser-based 3D applications
+- Implemented RESTful and GraphQL APIs for real-time data processing
+- Built CI/CD pipelines reducing deployment time by 70%
 
-开发用于移动和Web应用程序的RESTful API和GraphQL端点；优化数据库查询，性能提升60%；集成支付系统和第三方服务；实施安全最佳实践和漏洞评估。
+开发结合3D可视化和数据密集型后端的全栈应用程序；为复杂的数据可视化应用程序创建响应式、无障碍的用户界面；优化基于浏览器的3D应用程序的渲染性能；实现用于实时数据处理的RESTful和GraphQL API；构建CI/CD流水线，将部署时间减少70%。
 
 ## 🎓 Education | 教育背景
 **计算机科学与技术硕士 | Master of Computer Science**  
 _清华大学 | Tsinghua University_ _(2015 - 2018)_
+- 专业方向：计算机图形学与可视化 | Specialization: Computer Graphics and Visualization
 
 **软件工程学士 | Bachelor of Software Engineering**  
 _北京大学 | Peking University_ _(2011 - 2015)_
+- 辅修：数字媒体艺术 | Minor: Digital Media Arts
+
+## 💼 Specialized in | 专业领域
+- **3D Web Development** | **3D网页开发**
+- **Interactive Data Visualization** | **交互式数据可视化**
+- **WebGL & Three.js Applications** | **WebGL和Three.js应用**
+- **Cross-platform Development** | **跨平台开发**
+- **Microservices Architecture** | **微服务架构**
+- **Performance Optimization** | **性能优化**
+- **UI/UX Engineering** | **UI/UX工程**
 
 ## 📊 GitHub Stats | GitHub 统计
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fullstack-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fullstack-dev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LFUYdev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LFUYdev&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 📫 Contact | 联系方式
 <p align="center">
-  <a href="mailto:contact@fullstack-dev.tech">
+  <a href="mailto:leon@lfuy.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/fullstack-dev">
+  <a href="https://linkedin.com/in/leonfuller">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/fullstack-dev">
+  <a href="https://github.com/LFUYdev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/fullstack_dev">
+  <a href="https://twitter.com/lfuy_dev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." | "代码就像幽默，当你必须解释它时，它就是糟糕的。"
+> "The intersection of technology and art is where the most interesting innovations happen." | "技术与艺术的交叉点是最有趣的创新发生之处。"
