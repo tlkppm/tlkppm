@@ -3,7 +3,7 @@
 > **在工程精度与用户体验之间，构建可扩展的系统。**  
 > *Architecting scalable solutions at the intersection of engineering and UX.*
 
-**9+ 年**全栈架构师，专注高并发分布式系统与企业级 AI 基础设施，覆盖架构设计、云原生落地、DevOps 自动化与性能调优全链路。
+**10+ 年**全栈架构师，专注高并发分布式系统与企业级 AI 基础设施，覆盖架构设计、云原生落地、DevOps 自动化与性能调优全链路。
 
 Full Stack Architect with **9+ years** of experience, focused on high-concurrency distributed systems and enterprise-grade AI infrastructure — covering architecture design, cloud-native delivery, DevOps automation, and performance tuning end-to-end.
 
